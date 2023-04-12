@@ -6550,7 +6550,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  /* background-color: #343a40 !important; */
 }
 
 a.bg-dark:hover,
@@ -10567,7 +10567,6 @@ header.masthead h1 {
   color: #fff;
   background: rgba(244, 98, 58, 0.9);
   transition: opacity 0.25s ease;
-  text-align: center;
 }
 #portfolio
   .container-fluid
