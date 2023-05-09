@@ -515,7 +515,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 250px;
 }
 
 .img-thumbnail {
@@ -10606,6 +10606,13 @@ header.masthead h1 {
 #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name,
 #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
+}
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-description,
+#portfolio .container-sm .portfolio-box .portfolio-box-caption .project-description,
+#portfolio .container-md .portfolio-box .portfolio-box-caption .project-description,
+#portfolio .container-lg .portfolio-box .portfolio-box-caption .project-description,
+#portfolio .container-xl .portfolio-box .portfolio-box-caption .project-description {
+  font-size: 0.8rem;
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption,
 #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption,
