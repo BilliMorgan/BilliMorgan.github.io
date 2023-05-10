@@ -514,8 +514,8 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: 250px;
+  width: 100%;
+  height: 300px;
 }
 
 .img-thumbnail {
@@ -523,8 +523,8 @@ mark,
   background-color: #fff;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
-  max-width: 100%;
-  height: 250px;
+  width: 100%;
+  height: 300px;
 }
 
 .figure {
